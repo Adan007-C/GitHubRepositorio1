@@ -1,3 +1,0 @@
-"git show agregado"
-
-"la fecha de ahora es 2025 (Marzo)"
